@@ -4,7 +4,10 @@ CryptoTraceX repository
 
 Frontend commands:
 
-TODO
+How to run the frontend:
+
+First change directory: /var/www/html/cryptotracex/my-app
+Then start the server: PORT=80 npm start
 
 Backend commands:
 
